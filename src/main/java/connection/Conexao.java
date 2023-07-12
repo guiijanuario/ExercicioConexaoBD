@@ -3,7 +3,7 @@ package connection;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+//conexão com o banco
 public class Conexao {
 
     public static Connection getConnection(){
